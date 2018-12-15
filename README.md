@@ -10,7 +10,7 @@ Team Name:-	Tech Titans
 
 The objective is to develop an indigenous cost effective application that converts the handwritten notes/files/records into text files.
 
-[Licence](https://github.com/shivamchintels/licence.txt)
+[Licence](https://github.com/shivamchintels/IEEE-MadC/blob/master/LICENCE.txt)
 
 Country: India
 
